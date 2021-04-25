@@ -6,5 +6,5 @@ package demo
  * @ Time 7/8/18 10:27 PM
  */
 fun main(args: Array<String>) {
-    println("Stone  ")
+    println("Stone")
 }
