@@ -16,7 +16,7 @@ fun main(args: Array<String>) {
     println("name = ${getUser().component1()}")
 }
 
-data class User(val name: String, val id: Int)
+
 
 fun getUser(): User {
     return User("Stone", 77)
